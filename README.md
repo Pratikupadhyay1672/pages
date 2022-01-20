@@ -2,7 +2,6 @@
 <body>
 <head>
 <title> shopping </title>
-<link rel = "stylesheet" href="style.css">
 <style>
 
 body{
